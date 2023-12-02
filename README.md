@@ -4,5 +4,4 @@ then send this data to mongo db
 
 
 
-https://github.com/mahmoud1112/Kafka-Stream-Analysis/assets/90613144/192f36a0-ee05-4964-8687-14502ab77b6b
 
